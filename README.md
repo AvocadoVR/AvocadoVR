@@ -22,3 +22,4 @@
 ### 📫 How to reach me:
 
 - Discord: avocadovr
+- Email: itcbspare@gmail.com
