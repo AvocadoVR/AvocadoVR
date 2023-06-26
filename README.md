@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hi there, I'm Avocado! 👋
 
-<!--
-**AvocadoVR/AvocadoVR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Software Developer | 🌐 Web Enthusiast | 🌱 Learner
 
-Here are some ideas to get you started:
+### 💼 Skills & Technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Programming Languages: TypeScript, JavaScript, C#
+- Back-end Development: Node.js, Express.js
+- Front-end Development: React.js
+- Database Technologies: Prisma
+- Other Tools & Technologies: Git, VS Code
+
+### 📚 Currently Learning:
+
+- Advanced TypeScript concepts and best practices
+- Building back-end Node.js servers with Express.js
+- Developing VRChat Content with C#
+- Java for Minecraft modding and game development
+- Building web applications with React.js
+- Working with databases using Prisma
+
+### 📫 How to reach me:
+
+- Discord: avocadovr
