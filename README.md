@@ -1,22 +1,21 @@
-### Hi there, I'm Avocado! 👋
+## Hi there, I'm Avocado! 👋
 
 👨‍💻 Software Developer | 🌐 Web Enthusiast | 🌱 Learner
 
 ### 💼 Skills & Technologies:
 
 - Programming Languages: TypeScript, JavaScript, C#
-- Back-end Development: Node.js, Express.js
-- Front-end Development: React.js
+- Front-end Development: React.js with TypeScript
+- Back-end Development: Node.js with Express.js and TypeScript
 - Database Technologies: Prisma
 - Other Tools & Technologies: Git, VS Code
 
 ### 📚 Currently Learning:
 
-- Advanced TypeScript concepts and best practices
-- Building back-end Node.js servers with Express.js
+- Building back-end Node.js servers with Express.js using TypeScript.
 - Developing VRChat Content with C#
 - Java for Minecraft modding and game development
-- Building web applications with React.js
+- Building web applications with React.js using TypeScript
 - Working with databases using Prisma
 
 ### 📫 How to reach me:
