@@ -14,7 +14,6 @@
 
 - Building back-end Node.js servers with Express.js using TypeScript.
 - Developing VRChat Content with C#
-- Java for Minecraft modding and game development
 - Building web applications with React.js using TypeScript
 - Working with databases using Prisma
 
